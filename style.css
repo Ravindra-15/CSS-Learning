@@ -1,0 +1,28 @@
+* {
+    color: black;
+}
+
+#p1{
+    color: rgb(133, 12, 142);
+    
+}
+#p2{
+    color:black;
+    background-color:aqua;
+}
+
+button {
+    color: darkblue;
+    background-color: rgb(255, 247, 161)
+}
+
+body {
+    background-color: rgb(255, 243, 176);
+}
+
+h4 {
+    color: #ff00ff;
+}
+.c1{
+    color:rgb(34, 12, 239);
+}

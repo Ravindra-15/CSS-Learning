@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+h1{
+    height: 100px;
+    width: 300px;
+    color: black;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-left: 600px;
+    padding-top: 30px;
+
+}
+#div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+
+
+}
+div{
+    height: 60px;
+    background-color: #0f1111;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+    
+    
+}
+button{
+    background-color: #f08804;
+   
+}
+a{ 
+    margin-right: 200px;
+    text-decoration: none;
+}

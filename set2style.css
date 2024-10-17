@@ -1,0 +1,51 @@
+/* *{
+    font-family: 'Roboto';
+} */
+body {
+    background-color: lightgray;
+}
+
+h1 { margin-left: 600px;
+    background-color: grey;
+    color:white;
+    height:80px;
+    width:300px;
+    
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#outer {
+    font-size: 25px;
+
+}
+
+#inner {
+
+    font-size: 10px;
+}
+
+#p1 {
+    padding-top: 15px;
+    margin: 40px;
+    height: 80px;
+    background-color: aqua;
+    text-align: center;
+    /* border-width: 4px;
+    border-style: dashed;
+    border-color: black; */
+    border: 10px, solid, yellow;
+    border-radius: 10px;
+}
+
+#p2 {
+
+    padding: 15px;
+    height: 80px;
+    background-color: rgb(154, 154, 242);
+    text-align: center;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(215, 22, 22);
+    border-radius: 10px;
+}

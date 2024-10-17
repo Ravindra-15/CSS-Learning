@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width: 200px;
+    border: 2px, solid black;
+    display: inline-block;
+
+}
+
+#container {
+    width: 800px;
+    height: 200px;
+    display: flex;
+    /* flex-direction: row;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse; */
+    justify-content: center;
+    /* justify-content: flex-end;
+    justify-content: space-around;
+    justify-content: space-between; */
+}
+#box1 {
+    background-color: lightgreen;
+    flex-shrink: 0;
+}
+
+#box2 {
+    background-color: rgb(98, 158, 255);
+    flex-shrink: 2;
+    height: 200px;
+}
+
+#box3 {
+    background-color: rgb(252, 151, 88);
+}
+
+#box4 {
+    background-color: rgb(245, 92, 127);
+}
+
+#box5 {
+    background-color: rgb(225, 255, 105);
+}

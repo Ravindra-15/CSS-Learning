@@ -1,0 +1,10 @@
+#parent{
+    height: 400px;
+    width: 300px;
+    background-image: url(image.jpg.jpg);
+    background-size: cover;
+    position: fixed;
+    right:1%;
+    top:10%
+    
+}

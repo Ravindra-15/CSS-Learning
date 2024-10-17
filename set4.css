@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+#container{
+    background-color: black;
+    height: 60px;
+}
+#logo{
+    color:orangered;
+    font-size: 25px;
+}
+#button {
+    background-color: orangered;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color:white;
+}
+.contentbox{
+    border: 4px,solid,black;
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    display:inline-block;
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+#contentArea{
+    height:650px;
+}
